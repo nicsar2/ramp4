@@ -82,7 +82,7 @@ EXAMPLE 2
     license='MIT',
     install_requires=['opencv-python==4.5.3.56',
                       'fs==2.4.13',
-                      'numpy==1.20.2',
-                      'matplotlib==3.4.1'],
+                      'numpy',
+                      'matplotlib'],
     python_requires='>=3',
 )
